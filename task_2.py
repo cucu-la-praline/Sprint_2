@@ -9,7 +9,7 @@ class Movies:
 class Comedy(Movies):
 
     def __init__(self):
-            super().__init__()
+        super().__init__()
 
     def add_movie(self, movie):
         super().add_movie(movie)

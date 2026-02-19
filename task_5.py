@@ -49,9 +49,4 @@ for team in (football_team, hockey_team):
     team.number_of_draws()
     team.number_of_losses()
     team.total_points()
-
-
-    # git checkout -b develop 
-    # git add --all
-    # git commit -m'sprint 2' 
-    # git push -u origin develop
+    
